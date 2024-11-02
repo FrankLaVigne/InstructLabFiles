@@ -64,4 +64,4 @@ document: |
 repo: https://github.com/FrankLaVigne/InstructLabFiles
 commit: <commit_sha>
 patterns:
-  - "data.md"
+  - data.md
