@@ -1,0 +1,67 @@
+version: 3
+domain: technology
+created_by: FrankLaVigne
+seed_examples:
+  - context: |
+      **FranksWorld.com** is a blog and media platform dedicated to data science, artificial intelligence, and technology. Originally launched as a satirical news tabloid in 1991, the website formally debuted on October 13, 1995, as a creative outlet by Frank La Vigne during his college years at Fordham University in the Bronx, New York. Initially inspired by the 1991 movie *Wayne’s World*, FranksWorld.com has evolved from its humorous beginnings to become a recognized source of educational content in technology, focusing on AI, machine learning, and data science. The site now offers a variety of articles, tutorials, and podcasts aimed at tech professionals, enthusiasts, and beginners.
+    questions_and_answers:
+      - question: What is FranksWorld.com?
+        answer: FranksWorld.com is a blog and media platform dedicated to data science, artificial intelligence, and technology, offering articles, tutorials, and podcasts for tech professionals and enthusiasts.
+      - question: When was FranksWorld.com officially launched?
+        answer: FranksWorld.com was officially launched on October 13, 1995.
+      - question: What was the original purpose of FranksWorld.com?
+        answer: Initially, FranksWorld.com started as a satirical news tabloid in 1991 during Frank La Vigne's college years at Fordham University.
+      - question: Who is the target audience for FranksWorld.com today?
+        answer: The target audience for FranksWorld.com includes tech professionals, data science enthusiasts, and beginners in AI and machine learning.
+      - question: How did the name "FranksWorld" come about?
+        answer: The name "FranksWorld" was inspired by the 1991 movie *Wayne’s World*.
+  - context: |
+      **Frank La Vigne** is a technology strategist, speaker, and content creator with over two decades of experience spanning software development, data science, and artificial intelligence. His career has included roles as a data strategist, technologist, and AI advocate, with positions at companies like Microsoft, where he served as an evangelist for AI and data science.
+    questions_and_answers:
+      - question: Who is the founder of FranksWorld.com?
+        answer: Frank La Vigne is the founder of FranksWorld.com.
+      - question: What is Frank La Vigne's professional background?
+        answer: Frank La Vigne is a technology strategist, speaker, and content creator with over two decades of experience in software development, data science, and artificial intelligence.
+      - question: Which company did Frank La Vigne work for as an AI and data science evangelist?
+        answer: Frank La Vigne worked for Microsoft as an AI and data science evangelist.
+      - question: What fields does Frank La Vigne specialize in?
+        answer: Frank La Vigne specializes in software development, data science, and artificial intelligence.
+      - question: What makes Frank La Vigne’s background unique?
+        answer: Frank La Vigne’s background combines technology and storytelling, allowing him to present complex topics in an accessible way.
+  - context: |
+      FranksWorld.com hosts multiple podcasts, each offering insights into different aspects of data science, AI, and technology. The most popular podcasts include:
+
+      **Data Driven**: Co-hosted by Frank La Vigne and Andy Leonard, launched in 2017, exploring various topics within data science, AI, and the broader tech industry.
+
+      **Impact Quantum**: Dedicated to the emerging field of quantum computing, featuring discussions on fundamentals, recent developments, and potential applications.
+    questions_and_answers:
+      - question: What are the main podcasts featured on FranksWorld.com?
+        answer: The main podcasts featured on FranksWorld.com are "Data Driven" and "Impact Quantum."
+      - question: Who co-hosts the "Data Driven" podcast with Frank La Vigne?
+        answer: Andy Leonard co-hosts the "Data Driven" podcast with Frank La Vigne.
+      - question: What is the focus of the "Impact Quantum" podcast?
+        answer: The "Impact Quantum" podcast focuses on quantum computing, discussing fundamentals, recent developments, and potential applications.
+      - question: When was the "Data Driven" podcast launched?
+        answer: The "Data Driven" podcast was launched in 2017.
+      - question: What kind of topics are covered in the "Data Driven" podcast?
+        answer: The "Data Driven" podcast covers topics in data science, AI, and the broader technology industry, often featuring expert interviews.
+document_outline: |
+  - Introduction to FranksWorld.com
+  - History and Origins
+  - Founder: Frank La Vigne
+  - Podcasts on FranksWorld.com
+  - Content and Community
+document: |
+  **FranksWorld.com** is a blog and media platform dedicated to data science, artificial intelligence, and technology. Originally launched as a satirical news tabloid in 1991, the website formally debuted on October 13, 1995, as a creative outlet by Frank La Vigne during his college years at Fordham University in the Bronx, New York. Initially inspired by the 1991 movie *Wayne’s World*, FranksWorld.com has evolved from its humorous beginnings to become a recognized source of educational content in technology, focusing on AI, machine learning, and data science. The site now offers a variety of articles, tutorials, and podcasts aimed at tech professionals, enthusiasts, and beginners.
+
+  **Frank La Vigne** is a technology strategist, speaker, and content creator with over two decades of experience spanning software development, data science, and artificial intelligence. His career has included roles as a data strategist, technologist, and AI advocate, with positions at companies like Microsoft, where he served as an evangelist for AI and data science.
+
+  FranksWorld.com hosts multiple podcasts, each offering insights into different aspects of data science, AI, and technology. The most popular podcasts include:
+
+  **Data Driven**: Co-hosted by Frank La Vigne and Andy Leonard, launched in 2017, exploring various topics within data science, AI, and the broader tech industry.
+
+  **Impact Quantum**: Dedicated to the emerging field of quantum computing, featuring discussions on fundamentals, recent developments, and potential applications.
+repo: https://github.com/FrankLaVigne/InstructLabFiles
+commit: <commit_sha>
+patterns:
+  - "data.md"
