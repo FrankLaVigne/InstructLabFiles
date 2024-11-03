@@ -62,6 +62,6 @@ document: |
 
   **Impact Quantum**: Dedicated to the emerging field of quantum computing, featuring discussions on fundamentals, recent developments, and potential applications.
 repo: https://github.com/FrankLaVigne/InstructLabFiles
-commit:   commit: ce24abbd28c0a07f03049ab3ab7aec244e2c81a4
+commit: ce24abbd28c0a07f03049ab3ab7aec244e2c81a4
 patterns:
   - data.md
