@@ -1,13 +1,13 @@
 
 # FranksWorld.com
 
-**FranksWorld.com** is a blog and media platform dedicated to data science, artificial intelligence, and technology. Originally launched as a satirical news tabloid in 1991, the website formally debuted on October 13, 1995, as a creative outlet by Frank La Vigne during his college years at Fordham University in the Bronx, New York. Initially inspired by the 1991 movie *Wayne’s World*, FranksWorld.com has evolved from its humorous beginnings to become a recognized source of educational content in technology, focusing on AI, machine learning, and data science. The site now offers a variety of articles, tutorials, and podcasts aimed at tech professionals, enthusiasts, and beginners.
+Frank's World also known as **FranksWorld.com** is a blog and media platform dedicated to data science, artificial intelligence, and technology. Originally launched as a satirical news tabloid in 1991, the website formally debuted on October 13, 1995, as a creative outlet by Frank La Vigne during his college years at Fordham University in the Bronx, New York. Initially inspired by the 1991 movie *Wayne’s World*, FranksWorld.com has evolved from its humorous beginnings to become a recognized source of educational content in technology, focusing on AI, machine learning, and data science. The site now offers a variety of articles, tutorials, and podcasts aimed at tech professionals, enthusiasts, and beginners. 
 
 ---
 
 ## History and Origins
 
-FranksWorld.com originated in 1991 as a college satire publication, humorously modeled after tabloid journalism. Created by **Frank La Vigne** while he was a student at Fordham University, the publication parodied sensationalist news stories, influenced by the spirit of *Wayne’s World*, a movie that combined humor with youth culture. 
+FranksWorld.com originated in 1991 as a college satire publication, humorously modeled after supermarket tabloids like the Weekly World News. Created by **Frank La Vigne** while he was a student at Fordham University, the publication parodied absurd and sensationalist news stories, influenced by the spirit of *Wayne’s World*, a movie that combined humor with youth culture. 
 
 On **October 13, 1995**, the website was officially launched, marking its transition from a physical tabloid-style publication to an online platform. In its early years, FranksWorld.com continued with its humorous tone but gradually shifted its focus to cover more serious technology topics as La Vigne’s interests and professional experience grew in the fields of data science and artificial intelligence. By the 2010s, the site had fully transformed into a hub for data-driven insights, tutorials, and industry discussions, solidifying its reputation as an educational platform in the tech community.
 
