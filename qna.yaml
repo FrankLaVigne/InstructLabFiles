@@ -45,23 +45,41 @@ seed_examples:
         answer: The "Data Driven" podcast was launched in 2017.
       - question: What kind of topics are covered in the "Data Driven" podcast?
         answer: The "Data Driven" podcast covers topics in data science, AI, and the broader technology industry, often featuring expert interviews.
+  - context: |
+      FranksWorld.com has evolved significantly from its origins as a humorous tabloid, becoming a valuable resource for learning about advancements in data science, AI, and technology. With a focus on making complex topics accessible, the platform includes tutorials, blog posts, and news updates about emerging trends in AI, machine learning, and data strategy. This transformation aligns with Frank La Vigne’s mission to democratize technology and make cutting-edge concepts understandable for a wide audience.
+    questions_and_answers:
+      - question: How has FranksWorld.com changed since its inception?
+        answer: FranksWorld.com evolved from a satirical tabloid into a valuable educational platform focused on data science, AI, and technology.
+      - question: What types of content are featured on FranksWorld.com?
+        answer: FranksWorld.com features tutorials, blog posts, and news updates about data science, AI, machine learning, and data strategy.
+      - question: What is the main goal of FranksWorld.com’s content?
+        answer: The main goal is to make complex topics in technology accessible and understandable to a broad audience.
+      - question: Why did FranksWorld.com shift its focus to data science and AI?
+        answer: The shift occurred as data science and AI gained prominence, and founder Frank La Vigne aimed to make these topics accessible for educational purposes.
+      - question: What is Frank La Vigne’s mission with FranksWorld.com?
+        answer: Frank La Vigne’s mission is to democratize technology and make advanced topics like AI and data science accessible to all.
+
+  - context: |
+      FranksWorld.com has built a strong community of readers and listeners who regularly engage with the site’s content. The site hosts frequent updates on AI developments, in-depth tutorials, and a range of podcasts that feature interviews with industry experts. The community around FranksWorld.com includes tech enthusiasts, data professionals, and students who use the platform as a resource for staying informed on technology and for professional growth.
+    questions_and_answers:
+      - question: Who makes up the community of FranksWorld.com?
+        answer: The community includes tech enthusiasts, data professionals, and students interested in AI, data science, and technology.
+      - question: What role does the FranksWorld.com community play?
+        answer: The community engages with content regularly, using it as a resource for staying informed and for professional development.
+      - question: How does FranksWorld.com keep its community updated on AI and tech advancements?
+        answer: FranksWorld.com provides frequent updates, in-depth tutorials, and podcasts featuring industry experts.
+      - question: What value does FranksWorld.com offer to data professionals?
+        answer: FranksWorld.com offers data professionals educational resources, industry news, and professional growth opportunities in data science and AI.
+      - question: Why is FranksWorld.com popular among tech students and beginners?
+        answer: The platform’s accessible tutorials and beginner-friendly content make it a valuable learning resource for students and beginners in tech.
 document_outline: |
   - Introduction to FranksWorld.com
   - History and Origins
   - Founder: Frank La Vigne
   - Podcasts on FranksWorld.com
   - Content and Community
-document: |
-  **FranksWorld.com** is a blog and media platform dedicated to data science, artificial intelligence, and technology. Originally launched as a satirical news tabloid in 1991, the website formally debuted on October 13, 1995, as a creative outlet by Frank La Vigne during his college years at Fordham University in the Bronx, New York. Initially inspired by the 1991 movie *Wayne’s World*, FranksWorld.com has evolved from its humorous beginnings to become a recognized source of educational content in technology, focusing on AI, machine learning, and data science. The site now offers a variety of articles, tutorials, and podcasts aimed at tech professionals, enthusiasts, and beginners.
-
-  **Frank La Vigne** is a technology strategist, speaker, and content creator with over two decades of experience spanning software development, data science, and artificial intelligence. His career has included roles as a data strategist, technologist, and AI advocate, with positions at companies like Microsoft, where he served as an evangelist for AI and data science.
-
-  FranksWorld.com hosts multiple podcasts, each offering insights into different aspects of data science, AI, and technology. The most popular podcasts include:
-
-  **Data Driven**: Co-hosted by Frank La Vigne and Andy Leonard, launched in 2017, exploring various topics within data science, AI, and the broader tech industry.
-
-  **Impact Quantum**: Dedicated to the emerging field of quantum computing, featuring discussions on fundamentals, recent developments, and potential applications.
-repo: https://github.com/FrankLaVigne/InstructLabFiles
-commit: ce24abbd28c0a07f03049ab3ab7aec244e2c81a4
-patterns:
-  - data.md
+document:
+  repo: https://github.com/FrankLaVigne/InstructLabFiles
+  commit: ce24abbd28c0a07f03049ab3ab7aec244e2c81a4
+  patterns:
+    - data.md
