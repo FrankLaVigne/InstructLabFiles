@@ -73,11 +73,7 @@ seed_examples:
       - question: Why is FranksWorld.com popular among tech students and beginners?
         answer: The platform’s accessible tutorials and beginner-friendly content make it a valuable learning resource for students and beginners in tech.
 document_outline: |
-  - Introduction to FranksWorld.com
-  - History and Origins
-  - Founder: Frank La Vigne
-  - Podcasts on FranksWorld.com
-  - Content and Community
+  - An Introduction to FranksWorld.com, it's History and Origins along with its current conten
 document:
   repo: https://github.com/FrankLaVigne/InstructLabFiles
   commit: ce24abbd28c0a07f03049ab3ab7aec244e2c81a4
