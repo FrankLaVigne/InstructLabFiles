@@ -76,6 +76,6 @@ document_outline: |
   - An Introduction to FranksWorld.com, it's History and Origins along with its current conten
 document:
   repo: https://github.com/FrankLaVigne/InstructLabFiles
-  commit: ce24abbd28c0a07f03049ab3ab7aec244e2c81a4
+  commit: 9a2df32c42604885790637f5c39990c8eecc20ea
   patterns:
-    - data.md
+    - FranksWorld/data.md
